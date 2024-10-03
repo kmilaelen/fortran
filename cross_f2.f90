@@ -102,6 +102,6 @@ Program cross_f2
 !	write(*,*) sqrt(s)
 !	
 	tm = tm + 0.001
- 10 continue	
+ 10 continue
 !
 	End program cross_f2
